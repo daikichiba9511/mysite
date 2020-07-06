@@ -188,4 +188,6 @@ There's a few other such functions of the form `{{fname p₁ p₂}}` as well as 
 
 ## test
 
+うまく表示されろ〜〜〜
+
 ### statistics
