@@ -27,3 +27,15 @@ For instance:
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+\newcommand{\definition}[2]{
+  @@definition
+  **Def**: (_!#1_)
+  #2
+  @@
+}
+\newcommand{\theorem}[2]{
+  @@theorem
+  **Thm**: (_!#1_)
+  #2
+  @@
+}
