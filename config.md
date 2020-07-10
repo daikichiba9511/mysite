@@ -27,15 +27,35 @@ For instance:
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+
+<!-- 定義　@@~ でスタイル指定してる。設定はfranklin.css内で-->
 \newcommand{\definition}[2]{
   @@definition
-  **Def**: (_!#1_)
+  **Def** : ( _!#1_ )
+  \
+  \
   #2
   @@
 }
+
+
+<!-- 定理　-->
 \newcommand{\theorem}[2]{
   @@theorem
-  **Thm**: (_!#1_)
+  **Thm**: ( _!#1_ )
+  \
+  \
+  #2
+  @@
+}
+
+<!-- note　-->
+\newcommand{\note}[2]{
+  @@NOTE
+  **＊NOTE** :
+  @@
+  @@note
+  \
   #2
   @@
 }

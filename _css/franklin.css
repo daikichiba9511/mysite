@@ -210,7 +210,7 @@ body { counter-reset: eqnum; }
     padding-right: 5px; }
 
 /* =========================================================
-    ここから数式レンダリング関係。config.mdに定義したコマンドに色つけたりする
+    ここから数式レンダリング関係(自分で定義)。config.mdに定義したコマンドに色つけたりする
 ============================================================*/
 
 /* 定義　*/
@@ -228,6 +228,33 @@ body { counter-reset: eqnum; }
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 1em;}
+
+.important {
+    background-color: lemonchiffon;
+    padding: 0.5em;
+    margin-bottom: 1em;}
+
+.note {
+    background-color: aliceblue;
+    border-top: 5px solid cornflowerblue;
+    /*border-left: 5px solid cornflowerblue;*/
+    border-bottom-left-radius: 10px;
+    padding: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 1em;
+
+}
+
+.NOTE{
+    background-color:cornflowerblue;
+    color:white;
+    padding: 10px;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
 
 /* ==================================================================
     CODE & HIGHLIGHT.JS
