@@ -36,6 +36,7 @@
 
 雑多なメモ。はてなに出さない程度に雑多に書いていく。
 まだ何も書いてない。。(2020/07/6 現在)
-* [statistics](/statistics/statistics01/)
-* [linear algebra](/linear_algebra/linear_algebra01/)
-* [calculus](/calculus/calculus01/)
+* [statistics](/statistics/stats_index/) : 統計についてまとめ
+* [linear algebra](/linear_algebra/linear_algebra01/) : 線形代数についてのまとめ
+* [calculus](/calculus/calculus01/) : 微積についてのまとめ
+* [papers](/papers/paper_index/) : 読んだ論文についてのメモやまとめ
