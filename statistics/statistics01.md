@@ -24,7 +24,7 @@
 また、生成されたサンプルは標本抽出などでのデータの取られ方によって確率的に揺らぐ。そのためサンプルによって結果は変動することが分かる。従って、サンプルを確率変数の実現値として考える。
 
 
-![bayes_outline](https://github.com/daikichiba9511/mysite/statistics/images/statistics01_images/bayes_outline.png)
+![bayes_outline](~/mysite/statistics/images/statistics01_images/bayes_outline.png)
 
 ### 予測分布
 
