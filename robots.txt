@@ -1,0 +1,4 @@
+Sitemap: https://daikichiba9511.github.io/mysite/sitemap.xml
+
+User-agent: *
+Disallow:
