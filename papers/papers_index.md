@@ -11,7 +11,7 @@
 
 ### Statistics
 
-* []()
+* [A study about Explainable Articial Intelligence: using decision tree to explain SVM](/papers/ml/interpretable_svm)
 
 ### Machine Learning
 

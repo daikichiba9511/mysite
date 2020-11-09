@@ -39,6 +39,6 @@
 * [statistics](/statistics/stats_index/) : 統計についてまとめ
 * [linear algebra](/linear_algebra/linear_algebra01/) : 線形代数についてのまとめ
 * [calculus](/calculus/calculus01/) : 微積についてのまとめ
-* [papers](/papers/paper_index/) : 読んだ論文についてのメモやまとめ
+* [papers](/papers/papers_index/) : 読んだ論文についてのメモやまとめ
 
 * [pdf](/pdf/pdf_index/) : 勉強したことの手書きのメモや計算ノートなどをpdfにしておいておく
