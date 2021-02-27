@@ -34,7 +34,7 @@
 
 ## contents
 
-雑多なメモ。はてなに出さない程度に雑多に書いていく。
+雑多なメモ。雑多に書いていく。
 
 * [statistics](/statistics/stats_index/) : 統計についてまとめ
 * [linear algebra](/linear_algebra/linear_algebra01/) : 線形代数についてのまとめ
