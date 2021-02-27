@@ -43,11 +43,10 @@
 
 ## Skills
 
-* language: Python, Julia
-* library: numpy, pandas, scikit-learn, lightgbm, xgboost, pytorch, pytest, etc
+* Language: Python, Julia
+* Library: numpy, pandas, scikit-learn, lightgbm, xgboost, pytorch, pytest, etc
 * CI: CicleCI, Github Action
-
-etc
+* Cloud: AWS
 
 ## What I want to do
 
