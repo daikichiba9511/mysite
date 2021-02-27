@@ -60,8 +60,8 @@ etc
 
 雑多なメモ。理論系のことをメインに雑多に書いていく。技術よりのことははてなに記載。
 
-* [statistics](/statistics/stats_index/) : 統計についてまとめ
-* [linear algebra](/linear_algebra/linear_algebra01/) : 線形代数についてのまとめ
-* [calculus](/calculus/calculus01/) : 微積についてのまとめ
-* [papers](/papers/papers_index/) : 読んだ論文についてのメモやまとめ
-* [pdf](/pdf/pdf_index/) : 勉強したことの手書きのメモや計算ノートなどをpdfにしておいておく
+* [statistics](/statistics/stats_index/) : 統計まとめ
+* [linear algebra](/linear_algebra/linear_algebra01/) : 線形代数まとめ
+* [calculus](/calculus/calculus01/) : 微積まとめ
+* [papers](/papers/papers_index/) : 読んだ論文のメモやまとめ
+* [pdf](/pdf/pdf_index/) : 勉強したことの手書きのメモや計算ノートなどのpdf
